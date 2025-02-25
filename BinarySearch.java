@@ -3,7 +3,7 @@
  * @author Khashayar Sattari
  *
  * Precondition: string is in lexical order
- * Time Complexity: O(logn)
+ * Time Complexity: O(nlogn)
  */
 public class BinarySearch {
 
